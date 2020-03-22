@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/08f1a90b7850f9a5b1efcbfd5aff5c7b/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/53ad255d7f3d92b77f2d0725db86b0dd/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/027ad407f50a05e182f7950de165a28f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/4f0e7ac1df53f78fecf0733afcf4ed90/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0cf117722acb53e6fedb2491ea4093ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0a5864289f55a31f3c4ead14268ed5a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/a1d1d4d5bac4a610115433c14ef679d6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/264cada545e66e7825ab9bd835393ebf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/40daddb492e7e73c05ee044ee3bd8044/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f7d3c64bff61fc772ddb280c1577001d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/fb737a69e735fc060ea12bd3c381baf2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f9f52f3f4f6af82c3483cd3e6bf2130c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/4e1237f25f854b93739c5b16a673252d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/254b6c31ab7a06873a734896b6a5729f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/440f0a7fe91e2f693d32375f5351a352/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/cfb09a1c1fa9445d8bbd35f20764d4c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/abd8d9667f742f5900c21fe2c8d1f2f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0c9ae1f6c09673c61970426aec1d7893/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/dfe196823346e790505dbf7e25c0189f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/ef1eeb01e9254fae514fd8925aaac094/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f1ce0de71b093ddfdd7fd04f1704bc50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/c61a1ba7326db7de73e0d99d756088bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/32afe3e85b3814907dee647243192a0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/a7ec7b925b31aa90d244dc353fa7f893/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f6057421e69a22822c9e5afd6e179587/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b15a2d047247fad5513a09a2e1c179d7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b641ba517f74d6fabc8324aad6fbd7c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/abdfc022503256f2f98ae903b6caf053/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/1ccd03ae66dda82ec447b0fe50f857f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/33b575bb04ae5d768125d6bc3d417727/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/c28fc45c16e2dfa685ca89f67daef0d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/131078202e408ecc952986bb6bdfe925/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/3c945bc3501d64d64c87be6a17e1201e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0b026931c6686e048a39e00731fe3691/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/bfaed631142b3d2feccef340cfbc581f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/3cbd811046859d901bce2fed0400cb03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/8ed82b2d4ff6b138adaa8e90fe133045/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/08f1a90b7850f9a5b1efcbfd5aff5c7b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/08f1a90b7850f9a5b1efcbfd5aff5c7b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/fb737a69e735fc060ea12bd3c381baf2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/fb737a69e735fc060ea12bd3c381baf2/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f6057421e69a22822c9e5afd6e179587/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f6057421e69a22822c9e5afd6e179587/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b15a2d047247fad5513a09a2e1c179d7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b15a2d047247fad5513a09a2e1c179d7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f6057421e69a22822c9e5afd6e179587/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.thewalkingpet.MainActivity
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/08f1a90b7850f9a5b1efcbfd5aff5c7b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/08f1a90b7850f9a5b1efcbfd5aff5c7b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/53ad255d7f3d92b77f2d0725db86b0dd/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/53ad255d7f3d92b77f2d0725db86b0dd/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/027ad407f50a05e182f7950de165a28f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/027ad407f50a05e182f7950de165a28f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/4f0e7ac1df53f78fecf0733afcf4ed90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/4f0e7ac1df53f78fecf0733afcf4ed90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0cf117722acb53e6fedb2491ea4093ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0cf117722acb53e6fedb2491ea4093ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0a5864289f55a31f3c4ead14268ed5a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0a5864289f55a31f3c4ead14268ed5a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/a1d1d4d5bac4a610115433c14ef679d6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/a1d1d4d5bac4a610115433c14ef679d6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/264cada545e66e7825ab9bd835393ebf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/264cada545e66e7825ab9bd835393ebf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/40daddb492e7e73c05ee044ee3bd8044/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/40daddb492e7e73c05ee044ee3bd8044/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f7d3c64bff61fc772ddb280c1577001d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f7d3c64bff61fc772ddb280c1577001d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/fb737a69e735fc060ea12bd3c381baf2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/fb737a69e735fc060ea12bd3c381baf2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f9f52f3f4f6af82c3483cd3e6bf2130c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f9f52f3f4f6af82c3483cd3e6bf2130c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/4e1237f25f854b93739c5b16a673252d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/4e1237f25f854b93739c5b16a673252d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/254b6c31ab7a06873a734896b6a5729f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/254b6c31ab7a06873a734896b6a5729f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/440f0a7fe91e2f693d32375f5351a352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/440f0a7fe91e2f693d32375f5351a352/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/cfb09a1c1fa9445d8bbd35f20764d4c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/cfb09a1c1fa9445d8bbd35f20764d4c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/abd8d9667f742f5900c21fe2c8d1f2f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/abd8d9667f742f5900c21fe2c8d1f2f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0c9ae1f6c09673c61970426aec1d7893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0c9ae1f6c09673c61970426aec1d7893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/dfe196823346e790505dbf7e25c0189f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/dfe196823346e790505dbf7e25c0189f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/ef1eeb01e9254fae514fd8925aaac094/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/ef1eeb01e9254fae514fd8925aaac094/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f1ce0de71b093ddfdd7fd04f1704bc50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f1ce0de71b093ddfdd7fd04f1704bc50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/c61a1ba7326db7de73e0d99d756088bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/c61a1ba7326db7de73e0d99d756088bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/32afe3e85b3814907dee647243192a0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/32afe3e85b3814907dee647243192a0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/a7ec7b925b31aa90d244dc353fa7f893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/a7ec7b925b31aa90d244dc353fa7f893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f6057421e69a22822c9e5afd6e179587/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/f6057421e69a22822c9e5afd6e179587/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b15a2d047247fad5513a09a2e1c179d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b15a2d047247fad5513a09a2e1c179d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b641ba517f74d6fabc8324aad6fbd7c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/b641ba517f74d6fabc8324aad6fbd7c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/abdfc022503256f2f98ae903b6caf053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/abdfc022503256f2f98ae903b6caf053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/1ccd03ae66dda82ec447b0fe50f857f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/1ccd03ae66dda82ec447b0fe50f857f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/33b575bb04ae5d768125d6bc3d417727/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/33b575bb04ae5d768125d6bc3d417727/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/c28fc45c16e2dfa685ca89f67daef0d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/c28fc45c16e2dfa685ca89f67daef0d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/131078202e408ecc952986bb6bdfe925/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/131078202e408ecc952986bb6bdfe925/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/3c945bc3501d64d64c87be6a17e1201e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/3c945bc3501d64d64c87be6a17e1201e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0b026931c6686e048a39e00731fe3691/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/0b026931c6686e048a39e00731fe3691/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/bfaed631142b3d2feccef340cfbc581f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/bfaed631142b3d2feccef340cfbc581f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/3cbd811046859d901bce2fed0400cb03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/3cbd811046859d901bce2fed0400cb03/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/8ed82b2d4ff6b138adaa8e90fe133045/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/lucasnascimento/.gradle/caches/transforms-2/files-2.1/8ed82b2d4ff6b138adaa8e90fe133045/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/lucasnascimento/Desktop/The Walking Pet/theWalkingPet/android/app/src/debug/AndroidManifest.xml:5:22-75
