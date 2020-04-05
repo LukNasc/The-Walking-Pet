@@ -25,4 +25,6 @@ It is still necessary to create the application database and integrate with the 
 [Instagram](https://www.instagram.com/luscas.nasc/)  
 click [here](lucasjoao85@gmail.com) for send me email
 
-
+### Contributors
+<a href="https://github.com/LuidyMG" ><img alt="Luidy" width="100" height="100" src="https://avatars1.githubusercontent.com/u/26712717?s=460&u=73573867a9825c91df9e1191f6761f96f291a6fa&v=4" /></a>
+<a href="https://github.com/LukNasc/" ><img alt="Luidy" width="100" height="100" src="https://avatars3.githubusercontent.com/u/26725196?s=460&u=f0652b48db0637d994cd79e61411ca8e13c95d9a&v=4" /></a>
